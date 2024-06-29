@@ -1,4 +1,5 @@
-#                                                                                      Medical Insurance Cost Prediction
+<h1 align="center">Medical Insurance Cost Prediction</h1>
+
 
 ![screencapture-127-0-0-1-8050-2024-06-29-10_33_59](https://github.com/walidad007/Medical-Insurance-Cost-Prediction/assets/122018653/688a2464-3394-43f5-964d-7b4ae5a9b722)
 
